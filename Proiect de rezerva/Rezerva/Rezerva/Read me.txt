@@ -1,0 +1,9 @@
+Se permite ca simultan sa fie intre 2 si 4 jucatori.
+Cartile se aduna in 2 moduri:
+- se ia ca si target o carte din mana, si se cauta in cele de pe tabla suma corespunzatore
+- se ia ca si target o carte de pe tabla si se cauta in cele din mana 
+Modul de adunare al rezultatelor se bazeaza pe "perfect sum problem".
+Fiecare jucator primeste 6 carti (primul primeste 4, iar dupa ce ceilalti au primit 6, i se mai adauga 2 in pachet).
+Se redistribuie carti numai dupa ce toti jucatorii au ramas fara carti.
+Cartile la care primul jucator renunta (daca este cazul) se pun intr-un pachet separat, rezidual. Acelasi lucru se iintampla si cu cele la care jucatorul renunta cand nu mai are ce da jos.
+Fiecarui jucator i se permite sa aleaga in ce combinatie doreste suma, daca aceasta este posibila in mai multe combinatii.

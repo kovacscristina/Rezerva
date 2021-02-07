@@ -1,0 +1,10 @@
+﻿  Deck.cpp
+  Game.cpp
+C:\Users\dorin\Desktop\Proiect de rezerva\Rezerva\Rezerva\Game.cpp(246,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dorin\Desktop\Proiect de rezerva\Rezerva\Rezerva\Game.cpp(251,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dorin\Desktop\Proiect de rezerva\Rezerva\Rezerva\Game.cpp(269,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dorin\Desktop\Proiect de rezerva\Rezerva\Rezerva\Game.cpp(308,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dorin\Desktop\Proiect de rezerva\Rezerva\Rezerva\Game.cpp(348,24): warning C4018: '<': signed/unsigned mismatch
+  Rezerva.cpp
+  Generating Code...
+  Rezerva.vcxproj -> C:\Users\dorin\Desktop\Proiect de rezerva\Rezerva\Debug\Rezerva.exe
